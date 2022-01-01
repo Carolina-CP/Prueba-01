@@ -1,0 +1,39 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    background-color: black;
+  }
+ 
+
+  .navbar {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+  }
+
+  .navbar a{
+    font-size: 1.3rem;
+  }
+
+
+  .color-card{
+      background-color: black;
+  }
+
+  i{
+    font-size: 1.7rem;
+  }
+
+  .destacados img{
+    height: 9rem;
+  }
+
+  footer i{
+    color: white;
+  }
+
+  form button .tooltip{
+    background-color: white;
+  }
