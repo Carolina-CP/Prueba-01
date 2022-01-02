@@ -30,10 +30,25 @@ body {
     height: 9rem;
   }
 
+  .modal-text{
+    font-weight: 700;
+    color: rgb(8, 118, 126);
+  }
+  .modal-text #user-name {
+    font-weight: 400;
+    color: rgb(82, 80, 80);
+  }
+  .modal-text #user-subject {
+    font-weight: 400;
+    color: rgb(82, 80, 80);
+  }
+  .modal-text #user-message {
+    font-weight: 400;
+    color: rgb(82, 80, 80);
+  }
+
   footer i{
     color: white;
   }
 
-  form button .tooltip{
-    background-color: white;
-  }
+  
