@@ -7,7 +7,7 @@ $(document).ready(function () {
   
    $("#submit").click(function (e) { 
     e.preventDefault();
-  console.log("miauuuu!");
+  console.log("ok");
 
 
     var nombre= $("#userName").val();
@@ -22,7 +22,7 @@ $(document).ready(function () {
 
   $("#confirm-submit").click(function (e) { 
     e.preventDefault();
-    console.log("miauuuu")
+  console.log("ok")
     
     $("#contacto")[0].reset();
     $(".modal").modal("toggle");
